@@ -1,5 +1,9 @@
 M1、实验概述
-M2、电影特征的可视化分析
+M2、电影特征的可视化分析 Exploratory Data Analysis
+  1 Pre-processing
+  2 Visualizations
+  3 Clustering
+  4 Feature Selection  
 M3、电影票房预测
   1. Data Augmentation
   2. 算法说明
